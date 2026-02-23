@@ -1,0 +1,6 @@
+﻿target/
+*.db
+.idea/
+*.iml
+.DS_Store
+.env
